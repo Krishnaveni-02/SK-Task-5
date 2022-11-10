@@ -36,7 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins> 
-		<finalName>springboot-ci-cd-dimg.jar</finalName>
+		<finalName>springboot-ci-cd-dimg</finalName> 
 	</build>
 
 </project>
